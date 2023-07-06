@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817321055901",
+    "project_id": "madminiproject-3e908",
+    "storage_bucket": "madminiproject-3e908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817321055901:android:d869ec439a046fefdaa674",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817321055901-nasuk44qji7irfit5gthrhsldkf838ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicplayer",
+            "certificate_hash": "4ba12882535f73c30cd87649ff062650723ac3e7"
+          }
+        },
+        {
+          "client_id": "817321055901-q7e070aikqia1jrkurjp3p9j5jng3us0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr61irRequPHmI5iJP3uN9FCHk8wla1B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817321055901-q7e070aikqia1jrkurjp3p9j5jng3us0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
